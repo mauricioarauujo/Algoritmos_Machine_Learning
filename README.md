@@ -6,7 +6,7 @@ Notebooks with machine learning algorithms that I use for mentoring/classes.
 
 ### Setup
 
-After installing any conda environment, type:
+After installing any conda environment, type in your terminal:
 
 ~~~~~~~~~~~~~~~~~~~~~~~
    (base) $ git clone https://github.com/mauricioarauujo/Machine_Learning_Algorithms
@@ -21,7 +21,7 @@ Notebooks com algoritmos de machine learning que utilizo para mentoria/aulas.
 
 ### Setup
 
-Após instalar qualquer ambiente conda, digite:
+Após instalar qualquer ambiente conda, digite no seu terminal:
 
 ~~~~~~~~~~~~~~~~~~~~~~~
    (base) $ git clone https://github.com/mauricioarauujo/Machine_Learning_Algorithms
