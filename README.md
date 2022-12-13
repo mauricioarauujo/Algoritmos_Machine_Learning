@@ -12,7 +12,7 @@ After installing any conda environment, type in your terminal:
    (base) $ git clone https://github.com/mauricioarauujo/Machine_Learning_Algorithms
    (base) $ conda create -n {env_name} python==3.9
    (base) $ conda activate {env_name} 
-   (mm_revision) $ pip install -r requirements.txt
+   ({env_name} ) $ pip install -r requirements.txt
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 ## PT-BR
@@ -27,7 +27,7 @@ Após instalar qualquer ambiente conda, digite no seu terminal:
    (base) $ git clone https://github.com/mauricioarauujo/Machine_Learning_Algorithms
    (base) $ conda create -n {env_name} python==3.9
    (base) $ conda activate {env_name} 
-   (mm_revision) $ pip install -r requirements.txt
+   ({env_name} ) $ pip install -r requirements.txt
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 
