@@ -2,7 +2,7 @@
 
 ## PT-BR
 
-Este repositório e seus notebooks foram criados para fornecer suporte a mentorias sobre noções básicas teóricas e práticas de Machine Learning. O objetivo dessas mentorias é preparar pessoas que possuem conhecimentos básicos de Python e desejam aprender sobre o mundo de Machine Learning, seja para buscar o primeiro estágio/emprego em áreas correlatas ou simplesmente para adquirir noções sobre essa área do conhecimento que certamente estará cada vez mais presente em nossas vidas.
+Este repositório e seus notebooks foram criados para fornecer suporte a mentorias/aulas sobre noções básicas teóricas e práticas de Machine Learning. O objetivo das mesmas é preparar pessoas que possuem conhecimentos básicos de Python e desejam aprender sobre o mundo de Machine Learning, seja para buscar o primeiro estágio/emprego em áreas correlatas ou simplesmente para adquirir noções sobre essa área do conhecimento que certamente estará cada vez mais presente em nossas vidas.
 
 Ao longo do desenvolvimento deste repositório, utilizei o livro "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" de Aurelion Geron como principal referência. Este livro tem sido um recurso inestimável para aprofundar minha compreensão dos conceitos e técnicas fundamentais de Machine Learning. Eu o recomendo altamente para qualquer pessoa interessada nesta área.
 
