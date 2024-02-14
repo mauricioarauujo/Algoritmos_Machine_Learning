@@ -88,9 +88,15 @@ After installing any conda environment, type in your terminal:
 
 ~~~~~~~~~~~~~~~~~~~~~~~
    (base) $ git clone https://github.com/mauricioarauujo/Machine_Learning_Algorithms
-   (base) $ conda create -n {env_name} python==3.9
-   (base) $ conda activate {env_name} 
-   ({env_name} ) $ pip install -r requirements.txt
+   (base) $ conda update -n base -c defaults conda -y
+	(base) $ conda env create -f environment.yml -y
+   (base) $ conda activate ml_alg
+~~~~~~~~~~~~~~~~~~~~~~~
+or
+~~~~~~~~~~~~~~~~~~~~~~~
+   (base) $ git clone https://github.com/mauricioarauujo/Machine_Learning_Algorithms
+   (base) $ make create-env
+   (base) $ conda activate ml_alg
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 
